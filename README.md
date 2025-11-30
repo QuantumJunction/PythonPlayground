@@ -39,7 +39,8 @@ pip freeze > requirements.txt
 ├── experiments/     # Scratch scripts, prototypes
 ├── notebooks/       # Jupyter notebooks for exploration
 ├── utils/           # Helper modules
-├── requirements.txt # Optional dependencies
+├── requirements.txt # dependencies
+├── LICENSE
 └── README.md
 ``` 
 
