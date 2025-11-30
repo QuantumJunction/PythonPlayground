@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import linregress
 
-targetValue     = [1.0,     4.0,    6.6788, 10.5467]
+targetValue     = [1.0,     4.0,    6.0,    10.0]
 measuredValues  = [1.2345,  4.545,  6.6788, 10.5467]
 
 regression = linregress(targetValue,measuredValues)
